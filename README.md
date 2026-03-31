@@ -1,16 +1,19 @@
-## Hi there 👋
+# CEO Mr Reddix
 
-<!--
-**aaronreddix1987-sketch/aaronreddix1987-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CEO of **Total Transformation Inc.**
 
-Here are some ideas to get you started:
+## Focus
+- Real estate
+- Business automation
+- AI systems
+- Operations and execution
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Repositories
+- `CEO-Mr-Reddix`
+- `hermes-agent`
+
+## Contact
+- Email: aaronreddix1987@gmail.com
+- Location: Los Angeles, CA
+
+Building practical systems that turn ideas into execution.
