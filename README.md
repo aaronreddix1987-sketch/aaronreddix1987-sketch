@@ -1,74 +1,52 @@
-<div align="center">
+# Aaron Thomas Reddix — CEO, Total Transformation Inc.
 
-# CEO MR. REDDIX | TOTAL TRANSFORMATION INC.
-
-### Autonomous AI Sales Engine | Real Estate Acquisition | Veteran Housing
-
-[![Live Website](https://img.shields.io/badge/LIVE%20SITE-aaronreddix1987--sketch.github.io-C9A84C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aaronreddix1987-sketch.github.io/)
-[![Phone](https://img.shields.io/badge/CALL-747--301--8586-1B2A6B?style=for-the-badge&logo=phone&logoColor=white)](tel:7473018586)
-[![Email](https://img.shields.io/badge/EMAIL-aaronreddix1987%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronreddix1987@gmail.com)
+🔥 **[SHOP 64 EBOOKS + SERVICES → LIVE NOW](https://aaronreddix1987-sketch.github.io/CEO-Mr-Reddix/)**
 
 ---
 
-</div>
-
-## IQ-200 EINSTEIN MODE | NO HUMAN SYSTEM | ACTIVE
-
-**Aaron T. Reddix** is the Founder & CEO of **Total Transformation Inc. (TTI)** — an autonomous AI automation agency and real estate acquisition firm headquartered in Los Angeles, California.
-
-TTI deploys AI agents that replace entire sales teams — booking demos, closing contracts, and depositing revenue 24/7. **No humans. No SDR payroll. No missed leads. Ever.**
-
----
-
-## LIVE RESULTS — April 2026
-
-| Metric | Value |
-|--------|-------|
-| **Revenue Generated** | $1,007,488 |
-| **Active Pipeline** | $6.76M |
-| **Campaign Cycles** | 93 |
-| **Demos Booked** | 1,200+ |
-| **SMS Sent** | 450,000+ |
-| **Target Markets** | 15 |
-| **Human SDRs Required** | 0 |
+## Total Transformation Inc. (TTI)
+**California Corp No. C4861952 | EIN: 32-0663781**
+📍 5645 Case Ave, North Hollywood, CA 91606
+📞 (747) 301-8586
+📧 aaronreddix1987@gmail.com
+📸 [@low_fee_tow_auto_sales_inc](https://instagram.com/low_fee_tow_auto_sales_inc)
 
 ---
 
-## THREE DIVISIONS
+## 🛒 64 DIGITAL PRODUCTS — LIVE NOW
 
-### 🤖 TTI AI Agency — Revenue Engine
-Autonomous AI appointment setting and voice agents. Done-For-You operational partnerships.
-- Real Estate Agents: $497/mo
-- Medical Practices: $7,500 setup + $500/mo
-- High-Ticket Coaches: $5K–$10K setup + $2K/mo
+**Payment accepted:** Chime • Cash App ($aarontreddix) • Zelle • Stripe
 
-### ⚡ TTI Credit & Legal — Foundation
-FCRA/ECOA/FDCPA enforcement. Business credit building up to $250K on EIN.
-
-### 🏠 TTI Real Estate & Grants — The Mission
-Multi-family properties and sober living homes for homeless veterans in LA.
-
----
-
-## 90-DAY PERFORMANCE GUARANTEE
-
-> **We book 30+ qualified demos in 90 days — or you don't pay. Period.**
-
----
-
-## CONTACT
-
-- **Phone:** 747-301-8586
-- **Email:** aaronreddix1987@gmail.com
-- **Website:** [aaronreddix1987-sketch.github.io](https://aaronreddix1987-sketch.github.io/)
-- **Location:** Los Angeles, California
-- **EIN:** 32-0663781
-- **DUNS:** 076903032
+| Category | Products |
+|----------|----------|
+| 💳 Finance & Credit | Ebooks 03, 14, 37 |
+| 🏠 Real Estate | Ebooks 04, 05, 18, 28, 39, 45 |
+| 🤖 AI Tools | Ebooks 06, 17, 19, 20, 35 |
+| 🧠 Mindset | Ebooks 07, 50 |
+| 📚 Certifications | Ebooks 08, 09, 26, 31, 46 |
+| 📣 Marketing | Ebooks 11, 16, 30, 36, 44 |
+| 🏢 Business | Ebooks 15, 22, 27, 32, 38, 42, 48, 49 |
+| 🎓 Education | Ebook 10 |
+| 🎖️ Veterans | Ebooks 12, 33 |
+| ❤️ Recovery | Ebooks 13, 29, 42 |
+| ⚖️ Legal & Rights | Ebooks 23, 43, 47 |
+| 🏥 Healthcare | Ebooks 25, B-04, B-05 |
+| 🏘️ Housing | Ebooks 21, 39 |
+| 📝 Grants | Ebooks 12, 40 |
+| 👨‍👩‍👧 Kids Books | KID-01 through KID-10 |
 
 ---
 
-<div align="center">
+## Active Legal Cases
+- **Federal Lawsuit:** Case 2:26-cv-03718-AH-PVC (C.D. Cal.) — $520M
+- **CFPB:** Cases #260829-37684393, #37684805, #37684806, #37684143
+- **FTC:** Case #719575
 
-*Built and operated autonomously by Manus AI — IQ-200 Einstein Mode.*
+## Business Portfolio
+- **Total Transformation Inc.** — Digital education + community services
+- **Low Fee Tow LLC** — Affordable towing, North Hollywood
+- **Reddix Transformation Center** — Behavioral health + workforce dev (coming 2027)
 
-</div>
+---
+
+*All systems live. All automation deployed. No human required.*
