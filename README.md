@@ -1,13 +1,12 @@
 # Aaron T. Reddix — CEO, Total Transformation Inc.
 
-**Live store (the only checkout):** [aaronreddix1987-sketch.github.io](https://aaronreddix1987-sketch.github.io/)
+**Live store (the only checkout):** https://aaronreddix1987-sketch.github.io/
 
-- Library (pay + instant download): [ebooks.html](https://aaronreddix1987-sketch.github.io/ebooks.html)
-- AI phone agents: [agents.html](https://aaronreddix1987-sketch.github.io/agents.html)
-- After-pay vault: [thank-you.html](https://aaronreddix1987-sketch.github.io/thank-you.html)
+Verified library: https://aaronreddix1987-sketch.github.io/ebooks.html
 
-Card = Stripe auto-download. No card = Chime `$ceomrreddix` + text (747) 301-8586.
+Flagship: $47 The 10M Blueprint Complete 12-Book Series
+https://buy.stripe.com/6oUaEW71Sfy2cXF22c43S0p
 
-Los Angeles, CA · aaronreddix1987@gmail.com
+Card = Stripe. No Chime.
 
-Old GitHub links (`/CEO-Mr-Reddix/`, `/tti-digital-marketplace/`, `/links.html`, `/products.html`) all forward to the store above.
+Los Angeles, CA
